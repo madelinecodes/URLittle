@@ -1,0 +1,20 @@
+* {
+    color: grey;
+    text-align: center;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    padding: 50;
+    font-size: 50;
+}
+input {
+    width: 40%;
+    text-align: left;
+}
+textarea {
+    width: 25%;
+}
+h3{
+    margin-top: 10%;
+}
